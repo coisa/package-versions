@@ -39,6 +39,7 @@ final class GetPackageVersionsHandler implements RequestHandlerInterface
      * GetPackageVersionsHandler constructor.
      *
      * @param ResponseFactoryInterface $responseFactory
+     * @param StreamFactoryInterface $streamFactory
      * @param array $versions
      */
     public function __construct(
