@@ -1,5 +1,5 @@
 {
-    "name": "coisa/versions",
+    "name": "coisa/package-versions",
     "description": "HTTP Request Handler Package Versions",
     "type": "library",
     "license": "MIT",
