@@ -1,6 +1,6 @@
 {
     "name": "coisa/package-versions",
-    "description": "HTTP Request Handler Package Versions",
+    "description": "HTTP Package Versions Utility",
     "type": "library",
     "license": "MIT",
     "require": {
